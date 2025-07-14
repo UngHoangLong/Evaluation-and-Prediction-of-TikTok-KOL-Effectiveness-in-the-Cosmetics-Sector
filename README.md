@@ -9,7 +9,7 @@ Evaluation-and-Prediction-of-TikTok-KOL-Effectiveness-in-the-Cosmetics-Sector/
 ├── data
 |   |── raw data/
 │   |── data_level_1/
-|   |── data_level_2 an data for model studying/
+|   |── data_level_2 & data_for_model_studying/
 |   └── data_for_hypothesis_testing/
 ├── scr
 │   ├── api_scraping/
